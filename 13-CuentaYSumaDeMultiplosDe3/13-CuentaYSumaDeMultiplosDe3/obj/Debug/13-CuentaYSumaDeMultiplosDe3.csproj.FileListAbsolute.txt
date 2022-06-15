@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\13-CuentaYSumaDeMultiplosDe3\13-CuentaYSumaDeMultiplosDe3\bin\Debug\13-CuentaYSumaDeMultiplosDe3.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\13-CuentaYSumaDeMultiplosDe3\13-CuentaYSumaDeMultiplosDe3\bin\Debug\13-CuentaYSumaDeMultiplosDe3.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\13-CuentaYSumaDeMultiplosDe3\13-CuentaYSumaDeMultiplosDe3\obj\Debug\13-CuentaYSumaDeMultiplosDe3.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\13-CuentaYSumaDeMultiplosDe3\13-CuentaYSumaDeMultiplosDe3\obj\Debug\13-CuentaYSumaDeMultiplosDe3.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\13-CuentaYSumaDeMultiplosDe3\13-CuentaYSumaDeMultiplosDe3\obj\Debug\13-CuentaYSumaDeMultiplosDe3.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\13-CuentaYSumaDeMultiplosDe3\13-CuentaYSumaDeMultiplosDe3\obj\Debug\13-CuentaYSumaDeMultiplosDe3.pdb
